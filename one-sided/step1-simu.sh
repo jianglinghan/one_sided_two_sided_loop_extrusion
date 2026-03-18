@@ -1,0 +1,2 @@
+# Mode1, one-sided extrusion
+time python simu_all.py folder_face_1_back_0_Clife_100_Cof_300_life_200_slife_1200_birth_0.05_pause_0.5_sep_50_site_10_monomer_1000_replica_10_steps_155_vel_1_mode_1_switch_1_speed_2_stability_0.01_dwell_200 cr139.pkl wild
