@@ -1,4 +1,4 @@
-# Simulation Framework for One-sided and Two-sided Loop Extrusion Models
+# Simulation Framework for One-sided and Two-sided Loop Extrusion Models [![DOI](https://zenodo.org/badge/1185208969.svg)](https://doi.org/10.5281/zenodo.19093828)
 <img width="1313" height="490" alt="title" src="https://github.com/user-attachments/assets/506a7975-4296-4a22-b909-2eac47829db2" />
 
 
